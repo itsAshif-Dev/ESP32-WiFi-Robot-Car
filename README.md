@@ -1,6 +1,7 @@
 # ESP32 WiFi Robot Car
+## Finished Project
 
-## 📌 Overview
+##  Overview
 
 This project is a WiFi-controlled robot car built using the ESP32 microcontroller. The ESP32 creates its own WiFi hotspot, allowing users to connect directly from a smartphone or computer without requiring an external router.
 
